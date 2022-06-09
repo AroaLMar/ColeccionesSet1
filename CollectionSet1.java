@@ -26,7 +26,7 @@ public class CollectionSet1 {
 //Añadir elementos duplicados
 
 
-        frutas.add("Apple");
+        frutas.add("Manzana");
 
         frutas.add("Mango");
 
